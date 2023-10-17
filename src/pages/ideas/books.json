@@ -1,0 +1,62 @@
+[
+  {
+    "title": "The Power of Knowledge",
+    "author": "Emily Johnson",
+    "image": "https://example.com/book1.jpg",
+    "release_date": "2023-01-15"
+  },
+  {
+    "title": "Infinite Possibilities",
+    "author": "Michael Anderson",
+    "image": "https://example.com/book2.jpg",
+    "release_date": "2023-03-22"
+  },
+  {
+    "title": "The Art of Thinking",
+    "author": "Sophia Davis",
+    "image": "https://example.com/book3.jpg",
+    "release_date": "2023-05-10"
+  },
+  {
+    "title": "Minds and Machines",
+    "author": "Christopher Robinson",
+    "image": "https://example.com/book4.jpg",
+    "release_date": "2023-07-05"
+  },
+  {
+    "title": "Beyond Borders",
+    "author": "Olivia Martinez",
+    "image": "https://example.com/book5.jpg",
+    "release_date": "2023-09-18"
+  },
+  {
+    "title": "The Code of Nature",
+    "author": "Daniel Walker",
+    "image": "https://example.com/book6.jpg",
+    "release_date": "2023-02-08"
+  },
+  {
+    "title": "The Infinite Universe",
+    "author": "Ava White",
+    "image": "https://example.com/book7.jpg",
+    "release_date": "2023-04-14"
+  },
+  {
+    "title": "Beyond Time",
+    "author": "Liam Harris",
+    "image": "https://example.com/book8.jpg",
+    "release_date": "2023-06-30"
+  },
+  {
+    "title": "The Mind's Eye",
+    "author": "Ella Thompson",
+    "image": "https://example.com/book9.jpg",
+    "release_date": "2023-08-19"
+  },
+  {
+    "title": "Sapiens: A Brief History of Humankind",
+    "author": "Yuval Noah Harari",
+    "image": "https://example.com/book10.jpg",
+    "release_date": "2014-02-10"
+  }
+]

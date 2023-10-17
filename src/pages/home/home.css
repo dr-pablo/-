@@ -1,0 +1,31 @@
+.header {
+  font-size: 3rem;
+  font-weight: bolder;
+  width: 100vw;
+  text-align: center;
+}
+
+.header-image {
+  position: absolute;
+  mask: url("#text-mask");
+}
+
+.image-block img {
+  width: 100%;
+  max-width: 200px;
+}
+
+.text-block {
+  margin-left: 20px;
+}
+.welcome-text {
+  width: 15vw;
+  word-wrap: normal;
+}
+
+.accordian {
+  margin-top: 20px;
+  border: 2px solid steelblue;
+  width: 60vw;
+  border-radius: 11px;
+}

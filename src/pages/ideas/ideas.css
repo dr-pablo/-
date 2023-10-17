@@ -1,0 +1,30 @@
+.wsb {
+  overflow: auto;
+  height: 15vh;
+}
+
+.books {
+  overflow: scroll;
+}
+.interests {
+  width: 60vw;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 2vh;
+  border: 4px ridge #1e90ff;
+  border-radius: 20px;
+  padding: 4px;
+}
+.ideas {
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 5vh;
+  width: 50vw;
+  height: 25vh;
+}
+
+.recipeCard {
+  width: calc(33.3333% - 20px);
+  margin: 10px;
+  box-sizing: border-box;
+}

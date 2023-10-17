@@ -1,0 +1,24 @@
+.web3 {
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 5vh;
+  width: fit-content;
+  height: fit-content;
+  overflow: scroll;
+  padding: 10px;
+}
+
+.web3 ul {
+  overflow: scroll;
+  padding: 1vw;
+}
+
+.stack {
+  font-family: monospace;
+  font-size: smaller;
+}
+.source {
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+  font-size: small;
+}
